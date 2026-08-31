@@ -1,0 +1,1 @@
+# WeekMap ProGuard rules
